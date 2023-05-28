@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AmolKamal/AvionicSite.git/static/css/main.6e68c4bd.css",
-    "main.js": "/AmolKamal/AvionicSite.git/static/js/main.2d9d5cf4.js",
-    "static/js/787.f834ee57.chunk.js": "/AmolKamal/AvionicSite.git/static/js/787.f834ee57.chunk.js",
-    "index.html": "/AmolKamal/AvionicSite.git/index.html",
-    "main.6e68c4bd.css.map": "/AmolKamal/AvionicSite.git/static/css/main.6e68c4bd.css.map",
-    "main.2d9d5cf4.js.map": "/AmolKamal/AvionicSite.git/static/js/main.2d9d5cf4.js.map",
-    "787.f834ee57.chunk.js.map": "/AmolKamal/AvionicSite.git/static/js/787.f834ee57.chunk.js.map"
+    "main.css": "/AvionicSite/static/css/main.6e68c4bd.css",
+    "main.js": "/AvionicSite/static/js/main.8fcf5dfa.js",
+    "static/js/787.f834ee57.chunk.js": "/AvionicSite/static/js/787.f834ee57.chunk.js",
+    "index.html": "/AvionicSite/index.html",
+    "main.6e68c4bd.css.map": "/AvionicSite/static/css/main.6e68c4bd.css.map",
+    "main.8fcf5dfa.js.map": "/AvionicSite/static/js/main.8fcf5dfa.js.map",
+    "787.f834ee57.chunk.js.map": "/AvionicSite/static/js/787.f834ee57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e68c4bd.css",
-    "static/js/main.2d9d5cf4.js"
+    "static/js/main.8fcf5dfa.js"
   ]
 }
